@@ -1,13 +1,4 @@
-// Your Firebase configuration
-const firebaseConfig = {
-    apiKey: "AIzaSyAS-Nw8goYPAZ1AmbTZQIh5wLdpM-m0ZWY",   
-    authDomain: "docube-website.firebaseapp.com",   
-    projectId: "docube-website",   
-    storageBucket: "docube-website.appspot.com",   
-    messagingSenderId: "200646445092",   
-    appId: "1:200646445092:web:2597df3a3d62cf4e8ef0b1",   
-    measurementId: "G-THT2SVEG71"
-};
+
  
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
